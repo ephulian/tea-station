@@ -1,0 +1,3 @@
+../ - double dot and slash to access root folder
+background: url("../") position/size repeat attachment;
+transfrom: translate(xx%, xx%) - moves element by % of itself (ie 50% of 50px element = 25px)
